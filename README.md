@@ -13,7 +13,6 @@
 </p>
 <br>
 <h3>Technologies used</h3>
-<a href= https://github.com/ChocotacoOp?tab=repositories&q=&type=&language=java&sort= > <img width="65" height="40"src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/java.svg'> </a>
-<a href= https://github.com/ChocotacoOp?tab=repositories&q=&type=&language=spring&sort= > <img wwidth="65" height="40" src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/spring.svg'> </a>
-<a href= https://github.com/ChocotacoOp?tab=repositories&q=&type=&language=mysql&sort= > <img width="65" height="40" src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mysql.svg'> </a>
+ <h4> Core Java </h4> 
+ <h4> My SQL </h4>
 
